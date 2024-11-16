@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Mona Lisa</title>
+</head>
+<body>
+    <h1>La Mona Lisa</h1>
+    <p>La Mona Lisa es una de las obras de arte más famosas del mundo, pintada por Leonardo da Vinci.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/800px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg" alt="Mona Lisa" width="500">
+</body>
+</html>
